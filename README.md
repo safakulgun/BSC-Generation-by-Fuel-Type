@@ -72,5 +72,8 @@ Correlation Matrix between Energy Resources
 
 ![Figure_6](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/784ee3d4-a13b-41b8-8c8d-d92985ca7ce5)
 
+Correlations between Production Amount and Energy Sources
 
+
+![Figure_7](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/231204c2-2000-45cc-941b-e822c0330bee)
 
