@@ -2,7 +2,7 @@
 This BMRS is the primary channel for providing operational data relating to the GB Electricity Balancing and Settlement arrangements. "Production by Fuel Type" data for the period 2022-11-11 and 2023-11-11 have been extracted from this website.
 web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
 
-** DATA **
+**DATA**
 
 - Settlement Data: Elektrik piyasası verisinin yer aldığı tarih sütunu
 
@@ -42,10 +42,14 @@ web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
   
 - Norway 2 (North Sea Link): Norveç'ten gelen enerji transferi (North Sea Link bağlantısı)
 
+
   **STUDY 1**
 
- * Total Production Amount 
+*Total Production Amount:*
+   
    ![Figure_1](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/87adf869-c86a-47ca-82b6-91921ed45cbd)
 
+*Production Distribution by Fuel Types:*
 
-   
+![Figure_22](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/1fe3b556-56ac-4714-b41f-1529ca138563)
+
