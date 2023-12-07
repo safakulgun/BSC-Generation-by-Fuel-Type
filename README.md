@@ -49,7 +49,15 @@ web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
    
    ![Figure_1](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/87adf869-c86a-47ca-82b6-91921ed45cbd)
 
+   *Energy Transfer between Countries:*
+
+   
 *Production Distribution by Fuel Types:*
 
 ![Figure_22](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/1fe3b556-56ac-4714-b41f-1529ca138563)
+
+*Energy Transfer between Countries*
+
+![Figure_3](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/e0042911-2a52-4007-bb31-e2b531061c56)
+
 
