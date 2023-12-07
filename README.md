@@ -64,4 +64,13 @@ web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
 
 ![Figure_5](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/6388929d-6574-4fa3-a8b5-b573419d46d3)
 
+ **STUDY 2**
+ 
+ *Correlation*
+ 
+Correlation Matrix between Energy Resources
+
+![Figure_6](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/784ee3d4-a13b-41b8-8c8d-d92985ca7ce5)
+
+
 
