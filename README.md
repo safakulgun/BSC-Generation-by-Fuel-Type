@@ -60,4 +60,8 @@ web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
 
 ![Figure_3](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/e0042911-2a52-4007-bb31-e2b531061c56)
 
+*Change in All Energy Sources over Time*
+
+![Figure_5](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/6388929d-6574-4fa3-a8b5-b573419d46d3)
+
 
