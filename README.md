@@ -41,4 +41,11 @@ web : https://www.bmreports.com/bmrs/?q=generation/fueltype/current
 - France (IFA2): Fransa'dan gelen enerji transferi (IFA2 bağlantısı)
   
 - Norway 2 (North Sea Link): Norveç'ten gelen enerji transferi (North Sea Link bağlantısı)
-  
+
+  **STUDY 1**
+
+ * Total Production Amount 
+   ![Figure_1](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/87adf869-c86a-47ca-82b6-91921ed45cbd)
+
+
+   
