@@ -77,3 +77,6 @@ Correlations between Production Amount and Energy Sources
 
 ![Figure_7](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/231204c2-2000-45cc-941b-e822c0330bee)
 
+Correlation Matrix between Energy Production and Transfers from Countries
+
+![Figure_1](https://github.com/safakulgun/BSC-Generation-by-Fuel-Type/assets/108941899/605aeb6d-cc3b-4f2f-b6f0-f4797623bdfa)
